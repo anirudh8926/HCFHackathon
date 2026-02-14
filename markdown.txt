@@ -1,0 +1,2 @@
+1. Add .env.local file with api keys and supabase pb keys
+2. Add the gitignore file. 
